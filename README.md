@@ -45,3 +45,9 @@ Created as a practical project for a Git and GitHub training program.
 - Create a separate branch for each feature.
 - Review changes before merging a Pull Request.
 - Keep the README updated as the project grows.
+## Useful Resources
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Docs](https://docs.github.com/)
+- [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+ # Project Status
+This guide is a learning resource for practicing Git and GitHub workflows.
