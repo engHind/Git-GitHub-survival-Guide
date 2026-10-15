@@ -3,12 +3,13 @@ A beginner-friendly guide to the essential Git commands and GitHub workflows.
 # About the Project
 This project summarizes the key concepts learned during the Git and GitHub training program. It provides simple explanations of common commands and practical workflows.
 # Git Basics
-Command   | Purpose
-git init  | Initialize a Git repository
-git status| Check the current working tree status
-git add   | Stage changes for a commit
-git commit| Save staged changes in the repository history
-git log   | View commit history
+Git Basics
+Command Purpose
+git init Initialize a Git repository
+git status Check the current working tree status
+git add Stage changes for a commit
+git commit Save staged changes
+git log View commit history
 # Branches and Collaboration
 Command     | Purpose
 git branch  | List branches
