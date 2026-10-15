@@ -40,3 +40,8 @@ Git Basics
 
 
 Created as a practical project for a Git and GitHub training program.
+# Best Practices
+- Write clear and meaningful commit messages.
+- Create a separate branch for each feature.
+- Review changes before merging a Pull Request.
+- Keep the README updated as the project grows.
